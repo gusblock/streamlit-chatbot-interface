@@ -90,3 +90,5 @@ target/
 # Exlcude the database file
 .db
 /data
+questions_with_brand.xlsx
+questions.xlsx
